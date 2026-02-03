@@ -44,3 +44,6 @@ public class AverageTemp {
 		scanner.close();
 	}
 }
+
+
+
